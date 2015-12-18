@@ -1,5 +1,5 @@
 <?php
-namespace Dadinho;
+namespace Model;
 
 /**
  * Classe que representa um Lance (Bid) do jogador. Todo lance tem uma quantidade e um valor.

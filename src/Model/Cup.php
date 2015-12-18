@@ -1,5 +1,5 @@
 <?php
-namespace Dadinho;
+namespace Model;
 
 /**
  * Classe que representa o Copo do jogador. Um copo contém dados (Dices) que quando sacudido (shake)

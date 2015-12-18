@@ -1,5 +1,5 @@
 <?php
-namespace Dadinho;
+namespace Model;
 
 /**
  * Classe que representa um dado (Dice). Um dado tem um numero de lados ($N_FACES) e quando 

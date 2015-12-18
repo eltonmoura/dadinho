@@ -1,5 +1,5 @@
 <?php
-namespace Dadinho;
+namespace Model;
 
 /**
  * Classe que representa um Jogador.
